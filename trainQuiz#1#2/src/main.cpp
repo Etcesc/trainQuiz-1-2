@@ -3,8 +3,7 @@
 #include <ctime>
  
 using namespace std;
- 
-int aleatorio();
+
 
 void printarray (int arg[], int length) {
   for (int n=0; n<length; ++n)
